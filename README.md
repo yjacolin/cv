@@ -6,6 +6,7 @@ Lancer le serveur :
 ``
 bash develop_server.sh start
 ``
+Puis : http://localhost:8000/
 
 ## TODO
 
