@@ -28,6 +28,7 @@ SOCIAL = (('github', 'http://github.com/yjacolin'),
           ('twitter', 'http://twitter.com/yjacolin'),
           ('linkedin', 'http://fr.linkedin.com/in/yjacolin'))
 
+TWITTER_USERNAME = 'yjacolin'
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
@@ -36,7 +37,7 @@ DEFAULT_PAGINATION = False
 ## Templates settings
 
 #THEME = 'pelican-blueidea'
-THEME = 'Flex'
+THEME = 'themes/Flex'
 #THEME = 'crowsfoot'
 #THEME = 'html5-dopetrope'
 

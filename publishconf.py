@@ -23,3 +23,7 @@ DELETE_OUTPUT_DIRECTORY = True
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
 PAGE_ORDER_BY = 'sortorder'
+PIWIK_URL = 'stat.gloobe.org'
+PIWIK_SITE_ID = '2'
+
+
