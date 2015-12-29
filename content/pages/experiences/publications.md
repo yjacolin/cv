@@ -1,4 +1,4 @@
-Title: Publication
+Title: Publications
 Date: 2015-12-29 19:05
 Category: Expérience
 Lang: fr
