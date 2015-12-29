@@ -27,12 +27,13 @@ développeurs en relation avec les autres chefs de projet.
 
 Je réalise également une veille technologique et communautaire sur les différents 
 projets libres et open source de la communauté (QGIS, GeoServer, MapServer, PostGIS, 
-OpenLayers, etc.) et participe aux codes sprints / rencontres développeurs.
+OpenLayers, etc.) et participe aux codes sprints / rencontres développeurs et 
+[conférences](publications.html).
 
 Je rédige des tutorials à destination de nos clients pour les aider à gérer leur 
 données et leur application.
 
 ## Marketing
 
-Je participe à différents salons afin de présenter les produits et projets 
+Je participe à [différents salons](publications.html) afin de présenter les produits et projets 
 réalisés et rédige des articles sur le blog officiel de Camptocamp.

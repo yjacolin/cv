@@ -57,9 +57,9 @@ Mes responsabilités lors de ma présidence de l'association étaient de :
 
 * Organisation d'événements : 
 
-    * Rencontre QGIS en 2011 et en 2015
+    * [Rencontre QGIS en 2011 et en 2015](publications.html)
     * Rencontre des développeurs à Lyon en avril 2012
-    * FROG2013
+    * [FROG2013](publications.html)
 
 * Diffusion des annonces (rédaction d'article de blog, de communiqué de 
   presse)

@@ -16,10 +16,10 @@ MySQL).
 
 Je maîtrise également les [standards de l'OGC](http://opengeospatial.org/) tels 
 que les services web WMS, WFS et WCS ou d'autres, moins orienté service, comme 
-SLD et SE, WMC, FE.
+SLD et SE, WMC, FE. J'ai réalisé [différentes présentations d'introductions](publications.html)
 
 Mes compétences sur les outils ne se limitent pas aux outils et projets en 
-géomatique mais débordent aussi d'autres domaines :
+géomatique mais abordent aussi d'autres domaines :
 
 * CMS : Drupal et wordpress
 * Développement : GIT, 
