@@ -66,7 +66,7 @@ Mes responsabilités lors de ma présidence de l'association étaient de :
 
 ## OSGeo
 
-![Logo OSGeo]({filename}/images/osgeo_compass_with_acronym.png)
+![Logo OSGeo]({static}/images/osgeo_compass_with_acronym.png)
 
-  * Membre du Conseil d'Administration de l'OSGeo (élu par ses pairs) ![Charter Member of OSGeo]({filename}/images/OSGeo_charter.png)
+  * Membre du Conseil d'Administration de l'OSGeo (élu par ses pairs) ![Charter Member of OSGeo]({static}/images/OSGeo_charter.png)
 

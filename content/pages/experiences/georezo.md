@@ -5,7 +5,7 @@ Lang: fr
 sortorder: 04
 status: hidden
 
-![Logo GeoRezo]({filename}/images/banner_georezo.png)
+![Logo GeoRezo]({static}/images/banner_georezo.png)
 
 GeoRezo.net, portail géomatique, est une association loi 1901 d'intérêt général 
 française connue dans le monde de l'information géographique francophone pour 
