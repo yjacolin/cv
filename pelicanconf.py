@@ -26,7 +26,8 @@ AUTHOR_FEED_RSS = None
 # Social widget
 SOCIAL = (('github', 'http://github.com/yjacolin'),
           ('twitter', 'http://twitter.com/yjacolin'),
-          ('linkedin', 'http://fr.linkedin.com/in/yjacolin'))
+          ('linkedin', 'http://fr.linkedin.com/in/yjacolin'),
+          ('talentio', ''))
 
 TWITTER_USERNAME = 'yjacolin'
 DEFAULT_PAGINATION = False
