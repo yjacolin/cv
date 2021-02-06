@@ -2,20 +2,20 @@
 
 Voir https://yjacolin.github.io/cv ou https://yjacolin.gloobe.org
 
-## Installation
+## Installation
 
 ```
 sudo apt install ghp-import pelican
 ```
 
-## Lancer le serveur
+## Lancer le serveur
 
 ``
 bash develop_server.sh start
 ``
 Puis : http://localhost:8000/
 
-## Publier
+## Publier
 
 ```
 make publish
