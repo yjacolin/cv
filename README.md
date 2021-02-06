@@ -1,13 +1,23 @@
 # CV d'Yves Jacolin
 
-Voir http://yjacolin.github.io/cv ou http://yjacolin.gloobe.org
+Voir https://yjacolin.github.io/cv ou https://yjacolin.gloobe.org
 
-Lancer le serveur :
+## Installation
+```
+sudo apt install ghp-import pelican
+```
+
+## Lancer le serveur
 ``
 bash develop_server.sh start
 ``
 Puis : http://localhost:8000/
 
+## Publier
+```
+make publish
+make github
+```
 ## TODO
 
 * traduction
