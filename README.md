@@ -45,3 +45,7 @@ http://docs.getpelican.com/en/3.1.1/plugins.html
 
 * contact https://iainhouston.com/blog/make-contact-form.html
 * github activity : http://docs.getpelican.com/en/3.1.1/plugins.html#github-activity
+
+
+* http://resume.linkedinlabs.com/hhy2qkrcz
+* https://www.talent.io/candidates/8697/candidate_profile
