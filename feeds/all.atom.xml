@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CV de Yves Jacolin</title><link href="http://yjacolin.gloobe.org/" rel="alternate"></link><link href="http://yjacolin.gloobe.org/feeds/all.atom.xml" rel="self"></link><id>http://yjacolin.gloobe.org/</id><updated>2015-11-14T19:00:00+01:00</updated><entry><title>Je peux vous aider ?</title><link href="http://yjacolin.gloobe.org/je-peux-vous-aider.html" rel="alternate"></link><updated>2015-11-14T19:00:00+01:00</updated><author><name>Yves Jacolin</name></author><id>tag:yjacolin.gloobe.org,2015-11-14:je-peux-vous-aider.html</id><summary type="html">&lt;h1&gt;10 ans d'expérience dans la géomatique et l'Open Source&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CV de Yves Jacolin</title><link href="https://yjacolin.gloobe.org/" rel="alternate"></link><link href="https://yjacolin.gloobe.org/feeds/all.atom.xml" rel="self"></link><id>https://yjacolin.gloobe.org/</id><updated>2015-11-14T19:00:00+01:00</updated><subtitle>Yves Jacolin</subtitle><entry><title>Je peux vous aider ?</title><link href="https://yjacolin.gloobe.org/je-peux-vous-aider.html" rel="alternate"></link><published>2015-11-14T19:00:00+01:00</published><updated>2015-11-14T19:00:00+01:00</updated><author><name>Yves Jacolin</name></author><id>tag:yjacolin.gloobe.org,2015-11-14:/je-peux-vous-aider.html</id><summary type="html">&lt;h1&gt;10 ans d'expérience dans la géomatique et l'Open Source&lt;/h1&gt;
+&lt;h2&gt;Ce que je peux vous apporter&lt;/h2&gt;
+&lt;p&gt;Mon objectif professionnel est de vous apporter des connaissances 
+techniques dans le domaine de la géomatique Open source et des compétences dans 
+la gestion de projet ou le management. J'apprécie de travailler au sein d'une …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;10 ans d'expérience dans la géomatique et l'Open Source&lt;/h1&gt;
 &lt;h2&gt;Ce que je peux vous apporter&lt;/h2&gt;
 &lt;p&gt;Mon objectif professionnel est de vous apporter des connaissances 
 techniques dans le domaine de la géomatique Open source et des compétences dans 
@@ -34,4 +38,4 @@ méthodes facilitant cette communication.&lt;/p&gt;
 &lt;li&gt;organiser et méthodique&lt;/li&gt;
 &lt;li&gt;esprit d'analyse&lt;/li&gt;
 &lt;li&gt;capacité relationnel et de communication&lt;/li&gt;
-&lt;/ul&gt;</summary></entry></feed>
+&lt;/ul&gt;</content></entry></feed>
